@@ -60,9 +60,9 @@ body {
 }
 
 img[alt*="Band"] {
-  max-width: 110%;
+  max-width: 100%;
   height: auto;
-  margin-left: -10px;
+  margin: 0;
   position: relative;
 }
 
@@ -194,8 +194,8 @@ p {
   }
 
   footer {
-    position: absolute;
     bottom: 0;
+    position: absolute;
   }
 }
 
